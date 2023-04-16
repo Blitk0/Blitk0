@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blitk0
-- 👀 I’m interested in IT       
-- 🌱 I’m currently learning java (yeah, java.)
-- 📫 How to reach me - BlitQ@protonmail.com/dblitek61@gmail.com
+- 👀 I’m interested in ITsec, networking, python,       
+- 🌱 NSE intern @ Cisco Meraki 
+- 📫 How to reach me - BlitQ@protonmail.com
 
 <!---
 Blitk0/Blitk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
