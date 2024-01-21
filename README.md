@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blitk0
 - 👀 I’m interested in ITsec, networking, python,       
-- 🌱 NSE intern @ Cisco Meraki 
+- 🌱 Security Architect @ Akamai Technoologies
 - 📫 How to reach me - BlitQ@protonmail.com
 
 <!---
